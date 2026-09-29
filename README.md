@@ -53,5 +53,5 @@ terraform-aws-ec2/
 ---
  Project Screenshot 
 ---
-
+<img src="project_sc.png" alt="Project Screenshot" width="600">
 ---
