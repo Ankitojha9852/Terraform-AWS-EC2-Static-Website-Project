@@ -51,3 +51,7 @@ terraform-aws-ec2/
 ---
 └── outputs.tf
 ---
+ Project Screenshot 
+---
+
+---
