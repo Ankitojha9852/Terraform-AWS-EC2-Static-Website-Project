@@ -1,0 +1,5 @@
+aws_region     = "ap-southeast-1"
+instance_type  = "t3.micro"
+ami_id         = "ami-id"
+key_name       = "key-name"
+website_folder = "cafe"
